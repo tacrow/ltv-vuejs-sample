@@ -1,0 +1,14 @@
+/*
+ * object/utility/_state.scss
+ */
+.u-block {
+	display: block;
+}
+
+.u-none {
+	display: none;
+}
+
+.u-hidden {
+	visibility: hidden;
+}

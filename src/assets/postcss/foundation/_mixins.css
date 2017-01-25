@@ -1,0 +1,67 @@
+/*
+ * foundation/_mixins.scss
+ */
+$txt-white-color: #ffffff;
+
+$txt-base-color: #333333;
+
+$link-base-color: #dfdfdf;
+
+$bg-base-color: #cccccc;
+
+@define-mixin bg-img $name {
+	background-image: url(./assets/img/$(name).png);
+}
+
+@define-mixin fs-base {
+	font-size: 12px;
+	font-size: 1.2rem;
+}
+@define-mixin fs8 {
+	font-size: 8px;
+	font-size: .8rem;
+}
+@define-mixin fs9 {
+	font-size: 9px;
+	font-size: .9rem;
+}
+@define-mixin fs10 {
+	font-size: 10px;
+	font-size: 1rem;
+}
+@define-mixin fs11 {
+	font-size: 11px;
+	font-size: 1.1rem;
+}
+@define-mixin fs12 {
+	font-size: 12px;
+	font-size: 1.2rem;
+}
+@define-mixin fs14 {
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+@define-mixin fs16 {
+	font-size: 16px;
+	font-size: 1.6rem;
+}
+@define-mixin fs18 {
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+@define-mixin fs20 {
+	font-size: 20px;
+	font-size: 2rem;
+}
+@define-mixin fs24 {
+	font-size: 24px;
+	font-size: 2.4rem;
+}
+
+@define-mixin box-shadow $color {
+	box-shadow: 0 1px 2px $color;
+}
+
+@define-mixin box-shadow-base {
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+}
