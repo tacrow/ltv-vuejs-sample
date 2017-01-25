@@ -1,4 +1,4 @@
-# vuejs-sample
+# ltv-vuejs-sample
 
 > A Vue.js project
 
