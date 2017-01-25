@@ -2,23 +2,23 @@
   <nav class="p-side-menu">
     <h2 class="p-nav-header">解析</h2>
     <ul class="p-nav-list"></router-link></li>
-      <router-link tag="li" to="/" class="p-nav-list__item" exact><a>アクセス解析</a></router-link>
-      <router-link tag="li" to="/send" class="p-nav-list__item"><a>送客元解析</a></router-link>
-      <router-link tag="li" to="/search" class="p-nav-list__item"><a>複合検索解析</a></router-link>
-      <router-link tag="li" to="/ip_log" class="p-nav-list__item"><a>利用者IPログ</a></router-link>
+      <router-link tag="li" to="/" class="p-nav-list__item" exact><a>アクセス解析A</a></router-link>
+      <router-link tag="li" to="/send" class="p-nav-list__item"><a>アクセス解析B</a></router-link>
+      <router-link tag="li" to="/search" class="p-nav-list__item"><a>アクセス解析C</a></router-link>
+      <router-link tag="li" to="/ip_log" class="p-nav-list__item"><a>アクセス解析D</a></router-link>
     </ul>
     <h2 class="p-nav-header">LTV解析</h2>
     <ul class="p-nav-list">
     </ul>
-    <h2 class="p-nav-header">各種マスタ登録</h2>
+    <h2 class="p-nav-header">マスタ登録</h2>
     <ul id="nav-list2" class="p-nav-list">
-      <router-link tag="li" to="/a" class="p-nav-list__item"><a>単価条件マスタ</a></router-link>
-      <router-link tag="li" to="/b" class="p-nav-list__item"><a>ページ名称マスタ</a></router-link>
-      <router-link tag="li" to="/c" class="p-nav-list__item"><a>複合検索名称マスタ</a></router-link>
-      <router-link tag="li" to="/d" class="p-nav-list__item"><a>KWIDマスタ</a></router-link>
-      <router-link tag="li" to="/e" class="p-nav-list__item"><a>LTV指標マスタ</a></router-link>
+      <router-link tag="li" to="/a" class="p-nav-list__item"><a>マスタA</a></router-link>
+      <router-link tag="li" to="/b" class="p-nav-list__item"><a>マスタB</a></router-link>
+      <router-link tag="li" to="/c" class="p-nav-list__item"><a>マスタC</a></router-link>
+      <router-link tag="li" to="/d" class="p-nav-list__item"><a>マスタD</a></router-link>
+      <router-link tag="li" to="/e" class="p-nav-list__item"><a>マスタE</a></router-link>
     </ul>
-    <h2 class="p-nav-header">LTV実績アップロード</h2>
+    <h2 class="p-nav-header">アップロード</h2>
     <ul class="p-nav-list">
     </ul>
   </nav>

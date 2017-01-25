@@ -1,7 +1,7 @@
 <template>
   <footer class="p-footer">
   	<div class="p-footer-box">
-  		Copyright © CyberSS, Inc. All Rights Reserved
+  		Copyright © Tacrow, Inc. All Rights Reserved
   	</div>
   </footer>
 </template>
