@@ -1,0 +1,29 @@
+/*
+ * object/component/_input.scss
+ */
+.c-label {
+	display: inline-block;
+	min-width: 210px;
+	cursor: pointer;
+}
+
+.c-label--radio {
+	min-width: 150px;
+	margin-right: 5px;
+	padding: 10px;
+	border: 1px solid #999999;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+
+.c-checkbox {
+	margin-right: 5px;
+}
+
+.c-radio {
+	opacity: 0;
+	width: 0;
+	&:checked + .c-label--radio {
+		background-color: #eeeeee;
+	}
+}

@@ -47,7 +47,6 @@
   a {
     padding: 7px 0 6px 6px;
     color: #333333;
-    transition: color .1s;
   }
   &::after {
     content: '';
@@ -59,7 +58,6 @@
     background-color: #666666;
     opacity: 0;
     z-index: -1;
-    transition: width .2s;
   }
   &:hover {
     transition: all .3s;

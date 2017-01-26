@@ -1,0 +1,10 @@
+/*
+ * object/component/_header.scss
+ */
+.c-form-header {
+	margin-bottom: 5px;
+	border-bottom: 1px solid #eeeeee;
+	span {
+		@mixin fs12;
+	}
+}

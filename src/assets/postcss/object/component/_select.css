@@ -1,0 +1,21 @@
+/*
+ * object/component/_select.scss
+ */
+.c-select-box {
+	position: relative;
+	width: 200px;
+	&::after {
+		content: '▼';
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		color: #666666;
+		@mixin fs10;
+	}
+}
+.c-select {
+	padding: 5px 0 4px 5px;
+  width: 200px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}

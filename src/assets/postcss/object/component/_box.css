@@ -1,0 +1,15 @@
+/*
+ * object/component/_box.scss
+ */
+.c-form-box {
+	padding: 0 0 20px;
+}
+
+.c-form-box__list {}
+
+.c-form-box__list__item {
+	margin-bottom: 5px;
+	&:last-child {
+		margin-bottom: 0;
+	}
+}

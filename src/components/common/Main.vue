@@ -27,5 +27,6 @@ main {
 .p-main {
   float: right;
   width: 840px;
+  padding-bottom: 120px;
 }
 </style>

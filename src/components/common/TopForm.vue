@@ -1,5 +1,5 @@
 <template>
-<div>
+<form>
   <searvice-select></searvice-select>
   <site-check></site-check>
   <unitary-check></unitary-check>
@@ -7,7 +7,7 @@
   <index-check></index-check>
   <term-check></term-check>
   <date-check></date-check>
-</div>
+</form>
 </template>
 
 <script>
