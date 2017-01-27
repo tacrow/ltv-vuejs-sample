@@ -1,3 +1,13 @@
 /*
  * object/component/_btn.scss
  */
+.c-btn {
+	padding: 2px 15px 3px;
+	background-color: #999999;
+	border-radius: 3px;
+	box-sizing: border-box;
+	color: #ffffff;
+	&:hover {
+		background-color: #a9a9a9;
+	}
+}

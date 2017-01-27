@@ -9,22 +9,22 @@
   	</li>
   	<li class="c-form-box__list__item">
 	  <label class="c-label">
-	  	<input type="checkbox" class="c-checkbox" val="1">カードローンランキング比較.com
+	  	<input type="checkbox" class="c-checkbox" val="1">比較サイトA.com
 	  </label>
 	</li>
 	<li class="c-form-box__list__item">
 	  <label class="c-label">
-	  	<input type="checkbox" class="c-checkbox" val="2">即日融資安心カードローン.com
+	  	<input type="checkbox" class="c-checkbox" val="2">比較サイトB.com
 	  </label>
 	</li>
 	<li class="c-form-box__list__item">
 	  <label class="c-label">
-	  	<input type="checkbox" class="c-checkbox" val="2">即日人気キャッシング.com
+	  	<input type="checkbox" class="c-checkbox" val="2">比較サイトC.com
 	  </label>
 	</li>
 	<li class="c-form-box__list__item">
 	  <label class="c-label">
-	  	<input type="checkbox" class="c-checkbox" val="2">カードローン比較情報.com
+	  	<input type="checkbox" class="c-checkbox" val="2">比較サイトD.com
 	  </label>
 	</li>
 </div>

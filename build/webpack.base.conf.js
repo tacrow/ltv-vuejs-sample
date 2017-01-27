@@ -93,8 +93,8 @@ module.exports = {
     loaders: utils.cssLoaders({ sourceMap: useCssSourceMap }),
     postcss: [
       require('postcss-import')(),
-      require('postcss-mixins')(),
       require('postcss-nested')(),
+      require('postcss-mixins')(),
       require('postcss-simple-vars')(),
       require('autoprefixer')({
         browsers: ['last 2 versions']

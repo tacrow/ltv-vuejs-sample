@@ -27,3 +27,7 @@
 		background-color: #eeeeee;
 	}
 }
+
+.c-input-date {
+	min-width: 150px;
+}
